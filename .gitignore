@@ -1,1 +1,7 @@
-D:\Robotics\Projects\CourseMate AI\.venv
+.venv
+.env
+.venv/
+__pycache__/
+*.py[cod]
+chroma_db/
+.pytest_cache/
